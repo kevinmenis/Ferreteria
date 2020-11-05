@@ -1,6 +1,6 @@
 # Ferreteria
 
-Este proyecto consiste en gestionar un negocio en este caso: "Ferreteria lo de Chelo" en la cual las funciones que hace son:
+Este proyecto consiste en gestionar un negocio en este caso: "Casa Hogar" en la cual las funciones que hace son:
 Poder agregar, modificar y eleminar prestamos o fiados y de estos poder ver la lista.
 Del lado de ventas, ingresar y eliminar (solamente la de la fecha acutal), ver las listas de ventas del dia, mes, año.
 Ver estadísticas del mes y del año: total, promedio, minima, maxima entre otras.
